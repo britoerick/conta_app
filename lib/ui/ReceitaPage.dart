@@ -79,7 +79,7 @@ class _ReceitaPageState extends State<ReceitaPage> {
       child: Scaffold(
         appBar: AppBar(
             backgroundColor: Colors.green,
-            title: Text("Nova Despesa"),
+            title: Text("Nova Receita"),
             centerTitle: true
         ),
         floatingActionButton: FloatingActionButton(
